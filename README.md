@@ -1,6 +1,6 @@
 - Oi! I’m @lazaruscreate
-- I’m interested in building my Python skills and AWS skills
-- I’m currently learning AWS and Python
+- Currently refining my Java and TypeScript Skills
+- I’m currently learning Swift
 - I’m looking to collaborate on future projects
 
 
