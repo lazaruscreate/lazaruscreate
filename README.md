@@ -1,5 +1,5 @@
 - Oi! I’m @lazaruscreate
-- Working on refining my Java and TypeScript skills
+- Working on refining my Java skills
 - I’m currently learning Swift
 - I’m looking to collaborate on future projects
 
