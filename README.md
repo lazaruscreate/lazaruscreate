@@ -1,6 +1,6 @@
 - Oi! I’m @lazaruscreate
-- Working on refining my Java skills
-- I’m currently learning Swift
+- Constantly working on refining my Java skills
+- I’m currently learning Swift and some Machine Learning
 - I’m looking to collaborate on future projects
 
 
