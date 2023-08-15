@@ -1,5 +1,5 @@
 - Oi! I’m @lazaruscreate
-- I’m currently C, & always working on refining my Java and SQL skills
+- I’m currently C, & always working on refining my Java, Python, & SQL skills
 - I’m looking to collaborate on future projects!
 
 
