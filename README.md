@@ -1,6 +1,6 @@
 - Oi! I’m @lazaruscreate
 - I’m currently studying C, & always working on refining my Java, Python, & SQL skills
-- I’m looking to collaborate on future projects!
+- I’m looking to collaborate on future projects with other developers!
 
 
 <!---
